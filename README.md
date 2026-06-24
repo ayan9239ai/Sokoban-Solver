@@ -14,4 +14,4 @@ A Python-based implementation of the classic puzzle game **Sokoban**, featuring 
 ## 🎮 How to Run
 Run the script to enjoy both automatic and manual solver SOKOBAN via your terminal:
 ```bash
-python Sokoban(Task2).py
+python Sokoban.py
